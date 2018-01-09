@@ -24,10 +24,10 @@ url: "https://veritabel.se" # the base hostname & protocol for your site, e.g. h
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes
+remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
-
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
