@@ -14,6 +14,7 @@ gem "jekyll", "~> 3.7.0"
 #gem "writers-zone", "~> 0.0"
 #gem "minima", "~> 0.0"
 #gem "jekyll-remote-theme"
+gem "jemoji"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
