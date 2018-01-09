@@ -12,6 +12,7 @@ gem "jekyll", "~> 3.7.0"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "writers-zone", "~> 0.0"
+gem "minima", "~> 0.0"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
