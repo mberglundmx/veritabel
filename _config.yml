@@ -90,7 +90,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Entreprenör"
   location         : "Göteborg"
-  email            :
+  email            : "blogg@veritabel.se"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
