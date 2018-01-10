@@ -25,10 +25,10 @@ Det är ganska vanligt att personer med enskild firma ombildar till aktiebolag n
 
 En ekonomisk förening är den vanligaste formen för kooperativ verksamhet - den passar extra bra om man vill ha ett företag som välkomnar nya delägare som är med på lika villkor som grundarna. Istället för aktiekapital är det medlemmarnas insatser som är bolagets bundna kapital.
 
-För att starta en ekonomisk förening måsta man minst ha tre medlemmar vid grundandet, ["man kan också få mycket hjälp av coompanion." http://www.coompanion.se]
+För att starta en ekonomisk förening måsta man minst ha tre medlemmar vid grundandet, [man kan också få mycket hjälp av coompanion](http://www.coompanion.se).
 
 En ekonomisk förening liknar skatte- och regelmässigt väldigt mycket ett aktiebolag.
 
 ## Verksamt.se
 
-För att starta alla dessa typer av bolag, är det enklast att vända sig till [verkamt.se http://verksamt.se], där man med hjälp av BankId kan regstrera deolika bolgasformerna.
+För att starta alla dessa typer av bolag, är det enklast att vända sig till [verksamt.se](http://verksamt.se), där man med hjälp av BankId kan regstrera deolika bolgasformerna.
