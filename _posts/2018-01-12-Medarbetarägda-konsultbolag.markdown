@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Medarbetarägda konsultbolag"
-date:   2018-01-15 14:00:00 +0100
+date:   2018-01-12 14:00:00 +0100
 categories: ekonomi företagande entreprenörsskap 
 ---
 Om man jobbar som IT-, teknik eller managementkonsult, finns det många olika sätt att få sina uppdrag. Antingen som klassiskt anställd hos något storbolag, såsom TietoEnator, ÅF, etc, som anställd på ett mindre lokalt företag - kanske till och med ett medarbetarägt - eller som frilansande konsult som hittar sina uppdrag helt själv, eller genom konsultmäklare eller underkonsult hos ett större konsultbolag.
