@@ -41,3 +41,4 @@ Detta bolag har inget vinstintresse, utan allt överskott betalas tillbaka till 
 
 ## Slutsats
 För att knyta tillbaka till Olle's spaning i början, så tror jag att det finns en framtid för medarbetarägda konsultbolag i mellanstorlek - då de ger fördelarna från både anställning och frilans. Man skall dock fundera över vilket bolag man vill gå med i.
+
