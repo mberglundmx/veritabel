@@ -22,17 +22,13 @@ Jag vill dock slå ett slag för en form som ingen av skribenterna tar upp ovan,
 
 Ett vanligt upplägg är att man efter en viss kvalificeringstid är berättigad att köpa andelar i bolaget, till ett pris som följer någon modell. Sedan delas överskott från bolaget ut till ägarna. Viktigt är dock att ha koll på att bolagen är rättvisa - det är inte ovanligt att det finns stora ägare som har väldigt stor makt över bolagen, och som dessutom lyfter stora vinster.
 
-## Kvadrat
-Kvadrat har funnits i över 30 år, och startades av några unga konsulter i Stockholm. Kvadrat är numer i princip rikstäckande och växer kraftigt. I Kvadrat blir man erbjuden delägarskap efter cirka 12 månader, och kan då handla aktier i en sluten intern marknad.
+## Verklig huvudman
+Om man vill undersöka ägarstruktur, finns ett verktyg tillgängligt online där man kan se om det finns någon individ som har kontroll över företaget. Antingen genom direkt eller indirekt ägande av minst 25% av aktierna, eller makt att avsätta minst halva styrelsen.
 
-Kvadrat tar 17% av det fakturerade beloppet, och överskott delas ut till ägarna.
+[Detta verktyg hittar man på Bolagsverket](http://www.bolagsverket.se/pb/etjanster/verklig-huvudman/sok/sok-verklig-huvudman-1.14583).
 
-Viktigt att notera dock är att det finns en stor ägare i bolaget, som enligt bolagsverkets register över verkliga huvudmän, kontrollerar mellan 25% - 50%. [I bolagets aktiebok](http://www.bolagsverket.se/ff/foretagsformer/aktiebolag/starta/aktier/aktiebok-1.3158) kan man se att hen kontrollerar cirka 30% av kapitalet. Man ser också att endast XXX konsulter är delägare av totalt XXX konsulter.
-
-## Adwise Consulting
-Adwise är också gamla i branschen, grundades år XXX. De tar 15% av det fakturerade beloppet, man kan dock få 5% rabatt om man tar in ett uppdrag på egen hand.
-
-I Adwise aktiebok XXX
+## Aktieboken
+Ett annat sätt är att begära ut bolagets aktiebok, [som är en offentlig handling](http://www.bolagsverket.se/ff/foretagsformer/aktiebolag/starta/aktier/aktiebok-1.3158). Där kan man se ägarfördelningen i detalj.
 
 ## Konsultkooperativet
 Detta är ett [nytt konsultbolag i Göteborg](https://konsult.coop), som fungerar som ett kooperativ. Det betyder att alla som är medlemmar äger lika stora andelar. Priset per andel är bestämt på förhand och indexuppräknas varje år. Vid utträde fås dock samma summa som erlades tillbaka - någon utdelning sker inte heller, så det går alltså inte att göra någon kapitalvinst på Konsultkooperativet.
@@ -41,4 +37,6 @@ Detta bolag har inget vinstintresse, utan allt överskott betalas tillbaka till 
 
 ## Slutsats
 För att knyta tillbaka till Olle's spaning i början, så tror jag att det finns en framtid för medarbetarägda konsultbolag i mellanstorlek - då de ger fördelarna från både anställning och frilans. Man skall dock fundera över vilket bolag man vill gå med i.
+
+Känner du till något mer medarbetarägt konsultbolag som har en schysst ägarstruktur? Skicka gärna ett meddelande i kommentarsfältet!
 
