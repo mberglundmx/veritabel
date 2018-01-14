@@ -15,16 +15,16 @@ title                    : "En Veritabel Blogg"
 title_separator          : "-"
 name                     : "EMB"
 description              : "En blogg om företagande, ekonomi och politik"
-url                      : #"https://veritabel.se"
+url                      : "https://veritabel.se"
 baseurl                  : #""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : "veritabel"
+    shortname            : "veritabel" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
