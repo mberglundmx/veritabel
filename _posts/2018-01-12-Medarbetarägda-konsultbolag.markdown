@@ -2,7 +2,7 @@
 layout: single
 title:  "Medarbetarägda konsultbolag"
 date:   2018-01-12 14:00:00 +0100
-categories: ekonomi företagande entreprenörsskap 
+categories: konsultbolag konsultnätverk underkonsult 
 ---
 Om man jobbar som IT-, teknik eller managementkonsult, finns det många olika sätt att få sina uppdrag. Antingen som klassiskt anställd hos något storbolag, såsom TietoEnator, ÅF, etc, som anställd på ett mindre lokalt företag - kanske till och med ett medarbetarägt - eller som frilansande konsult som hittar sina uppdrag helt själv, eller genom konsultmäklare eller underkonsult hos ett större konsultbolag.
 
@@ -20,7 +20,7 @@ Hur det är att arbeta som underkonsult beskrivs väl av Zelago på Underkonsult
 
 Jag vill dock slå ett slag för en form som ingen av skribenterna tar upp ovan, nämligen medarbetaräda bolag. Alltså konsultbolag där man erbjuds delägarskap. Det är vanligt framförallt i de mellanstora bolagen som Olle nämner, där man kan få köpa in sig. Viktigt är dock att ha koll på vilka villkor som gäller.
 
-Ett vanligt upplägg är att man efter en viss kvalificeringstid är berättigad att köpa andelar i bolaget, till ett pris som följer någon modell. Sedan delas överskott från bolaget ut till ägarna. Nedan är några exempel på medarbetarägda konsultbolag.
+Ett vanligt upplägg är att man efter en viss kvalificeringstid är berättigad att köpa andelar i bolaget, till ett pris som följer någon modell. Sedan delas överskott från bolaget ut till ägarna. Viktigt är dock att ha koll på att bolagen är rättvisa - det är inte ovanligt att det finns stora ägare som har väldigt stor makt över bolagen, och som dessutom lyfter stora vinster.
 
 ## Kvadrat
 Kvadrat har funnits i över 30 år, och startades av några unga konsulter i Stockholm. Kvadrat är numer i princip rikstäckande och växer kraftigt. I Kvadrat blir man erbjuden delägarskap efter cirka 12 månader, och kan då handla aktier i en sluten intern marknad.
